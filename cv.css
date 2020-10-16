@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    width: 630px;
+    margin: auto;
+  
+    
+
+}
+
+.maindiv{
+   
+ 
+    
+}
+
+.photo{
+    text-align: right;
+    margin-top: -65px;
+    margin-bottom: -110px;
+    margin-left: -5px;
+    
+    
+}
+
+img{
+    text-align: right;
+    height: 200px;
+    width: 160px;
+    
+}
+
+
+
+
+
+.a{
+    
+    text-align: center;
+
+}
+
+
+
+
+.b{
+
+    text-align: center;
+    background: rgb(154, 228, 152);
+    margin-bottom: 5px;
+}
+
+
+p{
+    margin-bottom: 5px;
+}
+
+.c{
+    text-align: center;
+    background: rgb(154, 228, 152);
+    margin-bottom: 5px;
+}
+
+.c{
+    text-align: center;
+    background: rgb(154, 228, 152);
+    margin-bottom: 5px;
+}
+
+.d{
+    text-align: center;
+    background: rgb(154, 228, 152);
+
+}
+
+.h{
+    text-align: center;
+    background: rgb(154, 228, 152);
+    margin-bottom: 5px;
+}
+
+.e{
+    text-align: center;
+    background: rgb(154, 228, 152);
+    margin-bottom: 5px;
+}
+
+.f{
+    text-align: center;
+    background: rgb(154, 228, 152);
+    margin-bottom: 5px;
+}
+
+.margin{
+    height: 50px;
+}
+.sine img{
+    height: 25px;
+    width: 75px;
+    
+    
+}
+
+
+
+
+
+.g{
+    text-decoration: overline;
+}
